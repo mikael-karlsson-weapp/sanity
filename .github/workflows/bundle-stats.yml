@@ -32,4 +32,3 @@ jobs:
           packages: packages/sanity
           build-command: pnpm build
           only: "."
-          compare-npm: latest
